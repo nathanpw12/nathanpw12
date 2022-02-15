@@ -3,9 +3,8 @@
 🎈 I'm 21 years old <br>
 🌏 I am from Brazil <br>
 🚀 I am a development student at Trybe <br> 
-
 🐧 I am very happy with new followers and any support 
-    <br> 💚 Thank you for taking the time to read this far 🤍
+    <br> 💚 Thank you for taking the time to read this far
 <!-- <div/> -->
 
   <a href="https://github.com/nathanpw12">
