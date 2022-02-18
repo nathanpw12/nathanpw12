@@ -10,7 +10,7 @@
 <div>
     <a href="https://github.com/nathanpw12">
     <img width="48%" height="165em" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>  
-    <img width="48%" height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpw12&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+    <img width="51%" height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpw12&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>  
 
 
@@ -32,6 +32,6 @@
 
 ![Snake animation](https://github.com/nathanpw12/nathanpw12/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://komarev.com/ghpvc/?username=nathanpw12&color=green" alt="nathanpw12" /> 
+<img src="https://komarev.com/ghpvc/?username=nathanpw12&color=red" alt="nathanpw12" /> 
 <div>
   
