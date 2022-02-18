@@ -7,9 +7,11 @@
     <br> 💚 Thank you for taking the time to read this far
 <!-- <div/> -->
 
-  <a href="https://github.com/nathanpw12">
+<a href="https://github.com/nathanpw12">
+
+<div>
     <img heigth="165em" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=chartreuse-      dark&include_all_commits=true&count_private=true"/>   
-    <img height="165em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpw12&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpw12&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>  
 
 
