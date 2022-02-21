@@ -32,6 +32,8 @@
 
 ![Snake animation](https://github.com/nathanpw12/nathanpw12/blob/output/github-contribution-grid-snake.svg)
 
+<p align="center"> Visits on this github since 02/21/22 </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/nathanpw12/count.svg" /></p>
+<p align="center"> Thank you, come back anytime 💚 </p>
 <div>
   
