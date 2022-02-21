@@ -32,6 +32,6 @@
 
 ![Snake animation](https://github.com/nathanpw12/nathanpw12/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://komarev.com/ghpvc/?username=nathanpw12&color=red" alt="nathanpw12" /> 
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/nathanpw12/count.svg" /></p>
 <div>
   
