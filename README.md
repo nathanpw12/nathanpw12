@@ -1,6 +1,6 @@
 ### Hi, I'm Nathan 👋 
 <!-- <div style="margin-left: 10px"> -->
-🎈 I'm 21 years old <br>
+🎈 I'm 22 years old <br>
 🌏 I am from Brazil <br>
 🚀 I am a development student at Trybe <br> 
 <!-- 🐧 I am very happy with new followers and any support 
@@ -25,8 +25,7 @@
 ---
 
   <div> 
-   <a href = "mailto:nathanvitor38@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nathan-vitor-22b5901b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
+   <a href="https://www.linkedin.com/in/nathan-vitor-22b5901b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
 </div>
 
 ---
