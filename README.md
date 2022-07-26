@@ -1,5 +1,4 @@
-----
-#### Olá!, Sou o Nathan 👋
+### Olá!, Sou o Nathan 👋
 <!-- <div style="margin-left: 10px"> -->
 🎈 Tenho 22 anos <br>
 🌏 Sou do Brasil <br>
@@ -9,12 +8,14 @@
       <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
             -->
 <!-- <div/> -->
-----
+---
 <div>
     <a href="https://github.com/nathanpw12">
     <img  height="165em" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>  
     <img  height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpw12&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>  
+
+----
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,7 +38,9 @@
 
 ![Snake animation](https://github.com/nathanpw12/nathanpw12/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center"> Visits on this github since 02/21/22 </p>
+----
+
+<p align="center"> Visitas no perfil desde 21/02/22: </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/nathanpw12/count.svg" /></p>
 <p align="center"> Thank you, come back anytime 💚 </p>
 <div>
