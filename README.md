@@ -1,4 +1,4 @@
-### Olá!, Sou o Nathan 👋
+### Olá! Sou o Nathan 👋
 <!-- <div style="margin-left: 10px"> -->
 🎈 Tenho 22 anos <br>
 🌏 Sou do Brasil <br>
