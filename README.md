@@ -1,6 +1,6 @@
 ### Olá! Sou o Nathan 👋
 <!-- <div style="margin-left: 10px"> -->
-🎈 Tenho 22 anos <br>
+🎈 Tenho 21 anos <br>
 🌏 Sou do Brasil <br>
 🚀 Estudante de Desenvolvimento Web na Trybe <br> 
 <!-- 🐧 I am very happy with new followers and any support 
@@ -42,6 +42,6 @@
 
 <p align="center"> Visitas no perfil desde 21/02/22: </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/nathanpw12/count.svg" /></p>
-<p align="center"> Thank you, come back anytime 💚 </p>
+
 <div>
   
