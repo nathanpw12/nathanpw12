@@ -1,7 +1,7 @@
 ### Olá! Sou o Nathan 👋
 <!-- <div style="margin-left: 10px"> -->
 🎈 Tenho 21 anos <br>
-🌏 Sou do Brasil <br>
+🌏 Brasil <br>
 🚀 Estudante de Desenvolvimento Web na Trybe <br> 
 <!-- 🐧 I am very happy with new followers and any support 
     <br> 💚 Thank you for taking the time to read this far
