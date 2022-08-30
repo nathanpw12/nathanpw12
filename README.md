@@ -1,47 +1,101 @@
-### Olá! Sou o Nathan 👋
-<!-- <div style="margin-left: 10px"> -->
-🎈 Tenho 21 anos <br>
-🌏 Brasil <br>
-🚀 Estudante de Desenvolvimento Web na Trybe <br> 
-<!-- 🐧 I am very happy with new followers and any support 
-    <br> 💚 Thank you for taking the time to read this far
-      <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
-            -->
-<!-- <div/> -->
----
+🚧 some things are a little crooked, i'll fix it soon 🚧
+<h1 align='center'>Wassup?</h1>
+
+- 🎈 I'm 21 years old <br>
+- 🌏 From Brazil <br>
+- 🚀 Web Development Student at <a href='https://www.betrybe.com/'>Trybe</a><br> 
+- 📫 How to reach me **nathanvitor38@gmail.com**
+
+- Connect with me: 
+<a href="https://linkedin.com/in/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanpw12" height="30" width="40" /></a>
+<a href="https://instagram.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathanpw12" height="30" width="40" /></a>
+<a href="https://twitter.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathanpw12" height="30" width="40" /></a>
+
+<h1 align='center'>Languages and Tools:</h1>
+
 <div>
-    <a href="https://github.com/nathanpw12">
-    <img  height="165em" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>  
-    <img  height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpw12&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>  
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Javascript</strong></span><br>
+            <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Jest</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+            <td width="80px" align="center">
+            <span><strong>RTL</strong></span><br>
+            <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Sass</strong></span><br>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Linux</strong></span><br>
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Node</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
+            <td width="80px" align="center">
+            <span><strong>Jest</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Redux</strong></span><br>
+            <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Figma</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>ESLint</strong></span><br>
+            <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
+            <td width="80px" align="center">
+            <span><strong>Bash</strong></span><br>
+            <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-----
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanpw12&show_icons=true&locale=en&layout=compact" alt="nathanpw12" /></p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=dracula&locale=en" alt="nathanpw12" /></p>
+<div></div>
+</div>
 
 </div>
-    
-----
-    
-  <div> 
-   <a href="https://www.linkedin.com/in/nathan-vitor-22b5901b8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
-   <a href = "mailto:nathanvitor38@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.twitch.tv/nathanpw12" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/nathanpw12/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
 
-----
-
-![Snake animation](https://github.com/nathanpw12/nathanpw12/blob/output/github-contribution-grid-snake.svg)
-
-----
-
-<p align="center"> Visitas no perfil desde 21/02/22: </p>
+<p align="center"> Visits since 02/21/22: </p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/nathanpw12/count.svg" /></p>
-
-<div>
-  
