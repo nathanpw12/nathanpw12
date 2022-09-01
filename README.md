@@ -1,9 +1,26 @@
+<h1><strong>Hi there</strong></h1> 
+
+```js
+const name = 'Nathan Vitor';
+document.write("Hello World");
+
+const status = 
+{ 
+  learning: [ JavaScript, React, Laravel, Docker ],
+  interests:[ Education, Research, Programming ]
+}
+```
+
+<br>
+
 <div>
 <img src="sun2.gif" align="right" width="31%" height="100%">
 
+<h1><strong>About me</strong></h1> 
+
+
 <div align="left">
 
-<p style="font-size: 35px;"><strong>Wassup?</strong></p> 
 
 - 🎈 I'm 21 years old 
 
@@ -15,11 +32,9 @@
 <a href="https://twitter.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathanpw12" height="25" width="40" /></a>
 </div>
 </div>
-
-<br>
-
-<h style="font-size: 30px;">**Languages and Tools:**</h>
-<table width="320px">
+<h1><strong>Languages and Tools:</strong></h1>
+<div>
+<table align='left'>
     <tbody>
         <tr valign="top">
             <td width="80px" align="center">
@@ -93,12 +108,11 @@
     </tbody>
 </table>
 
-<br>
 
-<div>
-<p style="font-size: 30px;">Others:</p>
-
-<h3>Visits since 02/21/22: </h3>
-<img alingn="center" src="https://profile-counter.glitch.me/nathanpw12/count.svg" width="250" height="40"/>
+<p><img align='right' width="469" height="210" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=dracula&hide_border=false&locale=en" alt="nathanpw12" /></p>
+<p><img align='right' width="495" height="209" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanpw12&show_icons=true&theme=dracula&hide_border=false&locale=en&layout=compact" alt="nathanpw12" /></p>
 </div>
 
+
+<!-- <h3>Visits since 02/21/22: </h3>
+<img alingn="center" src="https://profile-counter.glitch.me/nathanpw12/count.svg" width="250" height="40"/> -->
