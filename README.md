@@ -14,9 +14,11 @@ const status =
 <br>
 
 <div>
-<img src="sun2.gif" align="right" width="31%" height="100%">
 
 <h1><strong>About me</strong></h1> 
+
+<img src="sun2.gif" align="right" width="31%" height="100%">
+
 
 
 <div align="left">
@@ -32,7 +34,10 @@ const status =
 <a href="https://twitter.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathanpw12" height="25" width="40" /></a>
 </div>
 </div>
-<h1><strong>Languages and Tools:</strong></h1>
+
+<br>
+
+<h1><strong>Knowledge and <br> Github Statistics</strong></h1>
 <div>
 <table align='left'>
     <tbody>
