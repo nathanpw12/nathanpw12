@@ -1,19 +1,19 @@
-🚧 some things are a little crooked, i'll fix it soon 🚧
-<h1 align='center'>Wassup?</h1>
 
-- 🎈 I'm 21 years old <br>
-- 🌏 From Brazil <br>
-- 🚀 Web Development Student at <a href='https://www.betrybe.com/'>Trybe</a><br> 
-- 📫 How to reach me **nathanvitor38@gmail.com**
+<img src="sun.gif" align="right" height="auto" width="200" style="border-radius:50%">
 
-- Connect with me: 
-<a href="https://linkedin.com/in/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanpw12" height="30" width="40" /></a>
-<a href="https://instagram.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathanpw12" height="30" width="40" /></a>
-<a href="https://twitter.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathanpw12" height="30" width="40" /></a>
+<h style="font-size: 60px;">**Wassup?**</h> 
 
-<h1 align='center'>Languages and Tools:</h1>
+- 🎈 I'm 21 years old 
 
-<div>
+- 🌏 From Brazil 
+- 🚀 Web Development Student at <a href='https://www.betrybe.com/'>**Trybe**</a>
+- 📫 How to reach me:  **nathanvitor38@gmail.com** 
+<a href="https://linkedin.com/in/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanpw12" height="25" width="40" /></a>
+<a href="https://instagram.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathanpw12" height="25" width="40" /></a>
+<a href="https://twitter.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathanpw12" height="25" width="40" /></a>
+
+
+<h style="font-size: 30px;">**Languages and Tools:**</h>
 <table width="320px">
     <tbody>
         <tr valign="top">
@@ -88,14 +88,12 @@
     </tbody>
 </table>
 
+<br>
+
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanpw12&show_icons=true&locale=en&layout=compact" alt="nathanpw12" /></p>
+<p style="font-size: 30px;">Others:</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=dracula&locale=en" alt="nathanpw12" /></p>
-<div></div>
+<h3>Visits since 02/21/22: </h3>
+<img alingn="center" src="https://profile-counter.glitch.me/nathanpw12/count.svg" width="250" height="40"/>
 </div>
 
-</div>
-
-<p align="center"> Visits since 02/21/22: </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/nathanpw12/count.svg" /></p>
