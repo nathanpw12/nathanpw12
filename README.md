@@ -108,9 +108,10 @@ const status =
     </tbody>
 </table>
 
-
-<p><img align='right' width="469" height="210" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=dracula&hide_border=false&locale=en" alt="nathanpw12" /></p>
-<p><img align='right' width="495" height="209" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanpw12&show_icons=true&theme=dracula&hide_border=false&locale=en&layout=compact" alt="nathanpw12" /></p>
+<div align='right'>
+<p><img width="469" height="210" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=dracula&hide_border=false&locale=en" alt="nathanpw12" /></p>
+<p><img width="495" height="209" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanpw12&show_icons=true&theme=dracula&hide_border=false&locale=en&layout=compact" alt="nathanpw12" /></p>
+</div>
 </div>
 
 
