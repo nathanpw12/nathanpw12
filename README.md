@@ -1,7 +1,9 @@
+<div>
+<img src="sun2.gif" align="right" width="31%" height="100%">
 
-<img src="sun.gif" align="right" width="290" height="190">
+<div align="left">
 
-<h style="font-size: 60px;">**Wassup?**</h> 
+<p style="font-size: 35px;"><strong>Wassup?</strong></p> 
 
 - 🎈 I'm 21 years old 
 
@@ -11,7 +13,10 @@
 <a href="https://linkedin.com/in/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanpw12" height="25" width="40" /></a>
 <a href="https://instagram.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathanpw12" height="25" width="40" /></a>
 <a href="https://twitter.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathanpw12" height="25" width="40" /></a>
+</div>
+</div>
 
+<br>
 
 <h style="font-size: 30px;">**Languages and Tools:**</h>
 <table width="320px">
