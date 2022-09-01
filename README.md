@@ -1,5 +1,7 @@
 <h1><strong>Hi there</strong></h1> 
 
+<br>
+
 ```js
 const name = 'Nathan Vitor';
 document.write("Hello World");
@@ -17,6 +19,8 @@ const status =
 
 <h1><strong>About me</strong></h1> 
 
+<br>
+
 <img src="sun2.gif" align="right" width="31%" height="100%">
 
 
@@ -32,12 +36,14 @@ const status =
 <a href="https://linkedin.com/in/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanpw12" height="25" width="40" /></a>
 <a href="https://instagram.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathanpw12" height="25" width="40" /></a>
 <a href="https://twitter.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathanpw12" height="25" width="40" /></a>
-</div>
-</div>
 
 <br>
+<br>
+<br>
 
-<h1><strong>Knowledge and <br> Github Statistics</strong></h1>
+
+<h1><strong>Knowledges and Github Statistics</strong></h1>
+<br>
 <div>
 <table align='left'>
     <tbody>
@@ -119,6 +125,5 @@ const status =
 </div>
 </div>
 
-
-<!-- <h3>Visits since 02/21/22: </h3>
-<img alingn="center" src="https://profile-counter.glitch.me/nathanpw12/count.svg" width="250" height="40"/> -->
+<h1><strong>Projects</strong></h1>
+🚧 <strong> coming soon </strong> 🚧
