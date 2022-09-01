@@ -8,8 +8,7 @@ document.write("Hello World");
 
 const status = 
 { 
-  learning: [ JavaScript, React, Laravel, Docker ],
-  interests:[ Education, Research, Programming ]
+  learning: [ JavaScript, React ],
 }
 ```
 
