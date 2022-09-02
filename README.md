@@ -2,21 +2,39 @@
 
 <br>
 
-```js
-const name = 'Nathan Vitor';
-document.write("Hello World");
+```jsx
+import React from 'react';
+import { docker, javaScript, nodeJs, others, react, SQL, typeScript } from '../skills/languagesAndTools';
 
-const status = 
-{ 
-  learning: [ JavaScript, React ],
-}
+const Me = () => {
+  const name = 'Nathan Vitor';
+  const skills = [javaScript, react, docker, SQL, nodeJs, typeScript, others];
+
+  return (
+    <main>
+      <h1>{name}</h1>
+      <h2>Learnig:</h2>
+      {
+        skills.map((skill, index) => (
+          <div key={ index }>
+            <ul>
+              <li>{skill}</li>
+            </ul>
+          </div>
+        ))
+      }
+    </main>
+  );
+};
+
+export default Me;
 ```
 
 <br>
 
 <div>
 
-<h1><strong>About me 👤</strong></h1> 
+<h1><strong>About me 🗿</strong></h1> 
 
 <br>
 
@@ -27,10 +45,9 @@ const status =
 <div align="left">
 
 
-- 🎈 I'm 21 years old 
-
-- 🌏 From Brazil 
-- 🚀 Web Development Student at Trybe <a href='https://www.betrybe.com/'><img src='trybe-logo.svg' height="60" width="60" /> </a>
+- 👤 I'm 21 years old 
+- 🇧🇷 From Brazil 
+- 🚀 Web Development Student at <a href='https://www.betrybe.com/'>Trybe <img src='trybe-logo2.webp' height="20" width="20" /> </a>
 - 📫 How to reach me:  **nathanvitor38@gmail.com** 
 <a href="https://linkedin.com/in/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanpw12" height="25" width="40" /></a>
 <a href="https://instagram.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathanpw12" height="25" width="40" /></a>
@@ -39,9 +56,11 @@ const status =
 <br>
 <br>
 <br>
+<br>
+<br>
 
 
-<h1><strong>Knowledges and Github Statistics</strong></h1>
+<h1><strong>Knowledges and Github Statistics 🧑‍🎓</strong></h1>
 <br>
 <div>
 <table align='left'>
@@ -130,9 +149,13 @@ const status =
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 <div>
-<h1><strong>Projects</strong></h1>
+<h1><strong>My Projects ⌨️ 🖱️ </strong></h1>
 🚧 <strong> coming soon </strong> 🚧
 </div>
 
