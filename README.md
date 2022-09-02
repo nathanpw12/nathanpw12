@@ -1,7 +1,5 @@
 <h1><strong>Hi there 👋</strong></h1> 
 
-
-
 ```jsx
 import React from 'react';
 import { docker, javaScript, nodeJs, others, react, SQL, typeScript } from '../skills/languagesAndTools';
@@ -56,112 +54,42 @@ export default Me;
 <br>
 <br>
 
+<h1><strong>Knowledges 🧑‍🎓</strong></h1>
 
-<h1><strong>Knowledges and Github Statistics 🧑‍🎓</strong></h1>
-<br>
-<div>
-<table align='left'>
-    <tbody>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Javascript</strong></span><br>
-            <img height="32px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>HTML</strong></span><br>
-            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>CSS</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>React</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Jest</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
-            <td width="80px" align="center">
-            <span><strong>RTL</strong></span><br>
-            <img height="32" src="https://testing-library.com/img/octopus-128x128.png">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>git</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>GitHub</strong></span><br>
-            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Sass</strong></span><br>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Linux</strong></span><br>
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Node</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
-            <td width="80px" align="center">
-            <span><strong>Jest</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg">
-            </td>
-        </tr>
-        <tr valign="top">
-            <td width="80px" align="center">
-            <span><strong>Redux</strong></span><br>
-            <img height="32" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>Figma</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-            </td>
-            <td width="80px" align="center">
-            <span><strong>ESLint</strong></span><br>
-            <img height="32px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">
-            <td width="80px" align="center">
-            <span><strong>Bash</strong></span><br>
-            <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-            </td>
-        </tr>
-    </tbody>
-</table>
-
-<div align='right'>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanpw12&count_private=true&show_icons=true&locale=en&border_radius=20&cache_seconds=7200&theme=midnight-purple&include_all_commits=true&count_private=true&custom_title=Nathan's+GitHub+Stats)
-
-</div>
+<div>  
+<img width="22" height="19" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <span><strong>HTML</strong></span> </span> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <span><strong>CSS</strong></span> <img width="22" height="19px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"> <span><strong>Javascript</strong> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">       
+<span><strong>React</strong></span> <img width="30" height="19" src="https://cdn.worldvectorlogo.com/logos/redux.svg">           
+<span><strong>Redux</strong></span> <img height="19px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">              
+<span><strong>ESLint</strong></span>  <img width="30" height="19" src="https://testing-library.com/img/octopus-128x128.png">
+<span><strong>RTL</strong></span> <img width="30" height="19px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"> <span><strong>Jest</strong> </span> <img width="30" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"> <span><strong>git</strong></span> <img width="30"height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> <span><strong>GitHub</strong></span> <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="19"/>       
+<span><strong>Linux</strong></span> <img width="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="19"/> <span><strong>Bash</strong></span><img width="30" height="19px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> <span><strong>Node</strong></span> 
 </div>
 
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 <div>
-<h1><strong>My Projects ⌨️ 🖱️ </strong></h1>
+<h1><strong>Projects ⌨️ 🖱️ </strong></h1>
 🚧 <strong> coming soon </strong> 🚧
 </div>
 
+<br>
+<br>
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=dracula" />
-</a> -->
+<div>
+<h1><strong>GitHub Statistics</strong></h1>
+🚧 <strong> coming soon </strong> 🚧
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanpw12&count_private=true&show_icons=true&locale=en&border_radius=20&cache_seconds=7200&theme=midnight-purple&include_all_commits=true&count_private=true&hide_title=true) -->
+
+</div>
+
+<br>
+<br>
+
+<div>
+<h1><strong>Others</strong></h1>
+
+🚧 <strong> coming soon </strong> 🚧
+
+</div>
