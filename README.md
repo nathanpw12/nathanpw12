@@ -44,7 +44,7 @@ export default Me;
 - 👤 I'm 21 years old 
 - 🇧🇷 From Brazil 
 - 🚀 Web Development Student at <a href='https://www.betrybe.com/'>Trybe <img src='trybe-logo2.webp' height="20" width="20" /> </a>
-- 📫 How to reach me:  **nathanvitor38@gmail.com** 
+- 📫 How to reach me: <a href="mailto:nathanvitor38@gmail.com" target="blank"><img align="center" src="gmail-icon.svg" alt="nathanpw12" height="28" width="40" /></a>
 <a href="https://linkedin.com/in/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanpw12" height="25" width="40" /></a>
 <a href="https://instagram.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathanpw12" height="25" width="40" /></a>
 <a href="https://twitter.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathanpw12" height="25" width="40" /></a>
