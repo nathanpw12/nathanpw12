@@ -1,4 +1,4 @@
-<h1><strong>Hi there</strong></h1> 
+<h1><strong>Hi there 👋</strong></h1> 
 
 <br>
 
@@ -16,7 +16,7 @@ const status =
 
 <div>
 
-<h1><strong>About me</strong></h1> 
+<h1><strong>About me 👤</strong></h1> 
 
 <br>
 
@@ -119,13 +119,22 @@ const status =
 </table>
 
 <div align='right'>
-<p><img width="469" height="210" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=dracula&hide_border=false&locale=en" alt="nathanpw12" /></p>
-<p><img width="495" height="209" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanpw12&show_icons=true&theme=dracula&hide_border=false&locale=en&layout=compact" alt="nathanpw12" /></p>
+
+
+<p>&nbsp;<img width="469" height="210" align="rigth" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="nathanpw12" /></p>
+<p><img width="469" height="210" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanpw12&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="nathanpw12" /></p>
+
 </div>
 </div>
 
+<br>
+<br>
+<br>
+
+<div>
 <h1><strong>Projects</strong></h1>
 🚧 <strong> coming soon </strong> 🚧
+</div>
 
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
