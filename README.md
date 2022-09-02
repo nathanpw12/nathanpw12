@@ -1,5 +1,7 @@
 <h1><strong>Hi there 👋</strong></h1> 
 
+
+
 ```jsx
 import React from 'react';
 import { docker, javaScript, nodeJs, others, react, SQL, typeScript } from '../skills/languagesAndTools';
@@ -135,8 +137,7 @@ export default Me;
 <div align='right'>
 
 
-<p>&nbsp;<img width="469" height="210" align="rigth" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=dracula&hide_border=false&locale=en" alt="nathanpw12" /></p>
-<p><img width="469" height="210" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanpw12&show_icons=true&theme=dracula&hide_border=false&locale=en&layout=compact" alt="nathanpw12" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanpw12&count_private=true&show_icons=true&locale=en&border_radius=20&cache_seconds=7200&theme=midnight-purple&include_all_commits=true&count_private=true&custom_title=Nathan's+GitHub+Stats)
 
 </div>
 </div>
