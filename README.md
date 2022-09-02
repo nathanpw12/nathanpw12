@@ -56,7 +56,7 @@ export default Me;
 
 <h1><strong>Knowledges 🧑‍🎓</strong></h1>
 
-<div>  
+<div align='center'>  
 <img width="22" height="19" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <span><strong>HTML</strong></span> </span> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <span><strong>CSS</strong></span> <img width="22" height="19px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"> <span><strong>Javascript</strong> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">       
 <span><strong>React</strong></span> <img width="30" height="19" src="https://cdn.worldvectorlogo.com/logos/redux.svg">           
 <span><strong>Redux</strong></span> <img height="19px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">              
