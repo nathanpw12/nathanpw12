@@ -30,7 +30,7 @@ const status =
 - 🎈 I'm 21 years old 
 
 - 🌏 From Brazil 
-- 🚀 Web Development Student at <a href='https://www.betrybe.com/'>**Trybe**</a>
+- 🚀 Web Development Student at Trybe <a href='https://www.betrybe.com/'><img src='trybe-logo.svg' height="60" width="60" /> </a>
 - 📫 How to reach me:  **nathanvitor38@gmail.com** 
 <a href="https://linkedin.com/in/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanpw12" height="25" width="40" /></a>
 <a href="https://instagram.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathanpw12" height="25" width="40" /></a>
