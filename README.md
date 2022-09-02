@@ -1,7 +1,5 @@
 <h1><strong>Hi there 👋</strong></h1> 
 
-<br>
-
 ```jsx
 import React from 'react';
 import { docker, javaScript, nodeJs, others, react, SQL, typeScript } from '../skills/languagesAndTools';
@@ -30,8 +28,6 @@ const Me = () => {
 export default Me;
 ```
 
-<br>
-
 <div>
 
 <h1><strong>About me 🗿</strong></h1> 
@@ -53,7 +49,6 @@ export default Me;
 <a href="https://instagram.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathanpw12" height="25" width="40" /></a>
 <a href="https://twitter.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathanpw12" height="25" width="40" /></a>
 
-<br>
 <br>
 <br>
 <br>
@@ -140,8 +135,8 @@ export default Me;
 <div align='right'>
 
 
-<p>&nbsp;<img width="469" height="210" align="rigth" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=dracula&hide_border=true&locale=en" alt="nathanpw12" /></p>
-<p><img width="469" height="210" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanpw12&show_icons=true&theme=dracula&hide_border=true&locale=en&layout=compact" alt="nathanpw12" /></p>
+<p>&nbsp;<img width="469" height="210" align="rigth" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=dracula&hide_border=false&locale=en" alt="nathanpw12" /></p>
+<p><img width="469" height="210" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanpw12&show_icons=true&theme=dracula&hide_border=false&locale=en&layout=compact" alt="nathanpw12" /></p>
 
 </div>
 </div>
@@ -153,6 +148,9 @@ export default Me;
 <br>
 <br>
 <br>
+<br>
+<br>
+
 
 <div>
 <h1><strong>My Projects ⌨️ 🖱️ </strong></h1>
