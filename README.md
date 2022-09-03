@@ -72,7 +72,7 @@ export default Me;
 <h1><strong>Projects ⌨️ 🖱️ </strong></h1>
 
 <ol>
-  <li><strong><a href='https://github.com/nathanpw12/lessons-learned' target="_blank"'>Leassons Learned</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/lessons-learned' target="_blank">Leassons Learned</a></strong></li>
   </ol>
 </div>
 
