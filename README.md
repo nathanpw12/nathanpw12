@@ -70,7 +70,10 @@ export default Me;
 
 <div>
 <h1><strong>Projects ⌨️ 🖱️ </strong></h1>
-🚧 <strong> coming soon </strong> 🚧
+
+<ol>
+  <li><strong><a href='https://nathanpw12.github.io/lessons-learned/'>Leassons Learned</a></strong></li>
+  </ol>
 </div>
 
 <br>
