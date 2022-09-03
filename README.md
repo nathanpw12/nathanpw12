@@ -57,7 +57,7 @@ export default Me;
 <h1><strong>Knowledges 🧑‍🎓</strong></h1>
 
 <div align='center'>  
-<img width="22" height="19" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <span><strong>HTML</strong></span> </span> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <span><strong>CSS</strong></span> <img width="22" height="19px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"> <span><strong>Javascript</strong> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">       
+<img width="22" height="19" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <span><strong>HTML</strong></span> </span> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <span><strong>CSS</strong></span> <img width="22" height="19px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"> <span><strong>JavaScript</strong> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">       
 <span><strong>React</strong></span> <img width="30" height="19" src="https://cdn.worldvectorlogo.com/logos/redux.svg">           
 <span><strong>Redux</strong></span> <img height="19px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">              
 <span><strong>ESLint</strong></span>  <img width="30" height="19" src="https://testing-library.com/img/octopus-128x128.png">
@@ -73,7 +73,18 @@ export default Me;
 
 <ol>
   <li><strong><a href='https://github.com/nathanpw12/lessons-learned' target="_blank">Leassons Learned</a></strong></li>
-  </ol>
+  <li><strong><a href='https://github.com/nathanpw12/playground-functions' target="_blank">Playground Functions</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/pixel-art' target="_blank">Pixel Art</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/trybewarts' target="_blank">Trybewarts</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/js-unit-tests' target="_blank">JS Unit Tests</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/zoo-functions' target="_blank">Zoo Functions</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/shopping-cart' target="_blank">Shopping Cart</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/' target="_blank">I will be deploying others soon</a></strong></li>
+<!--   <li><strong><a href='https://github.com/nathanpw12/shopping-cart' target="_blank">Shopping Cart</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/shopping-cart' target="_blank">Shopping Cart</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/shopping-cart' target="_blank">Shopping Cart</a></strong></li>
+ -->
+</ol>
 </div>
 
 <br>
