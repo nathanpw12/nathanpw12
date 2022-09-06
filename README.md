@@ -95,7 +95,7 @@ export default Me;
 
 <div align="center" align-content="center">
   <img height="180em" widh="100em" align="left" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&cache_seconds=7200"/>
-  <img src="Octocat.png" align="center" height="135em" width="160em"/>
+  <img src="Octocat.png" align="center" height="100em" width="120em"/>
   <img height="180em"  widh="100em"  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpw12&layout=compact&langs_count=7&theme=codeSTACKr&exclude_repo=nathanpw12/pyhon&langs_count=10&hide_border=true&border_radius=10&cache_seconds=7200"/>
 </div>
 
