@@ -91,20 +91,13 @@ export default Me;
 <br>
 
 <div>
-<h1><strong>GitHub Statistics</strong></h1>
-
-<div align="center" align-content="center">
-  <img height="180em" widh="80em" align="left" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&cache_seconds=7200"/>
-
-  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpw12&layout=compact&langs_count=7&theme=codeSTACKr&exclude_repo=nathanpw12/pyhon&langs_count=10&hide_border=true&border_radius=10&cache_seconds=7200"/>
+<h1><strong>GitHub Statistics</strong></h1> 
 </div>
 
+<div align="venter">
+  <img height="180em"" align="left" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&cache_seconds=7200"/>
+ <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpw12&layout=compact&langs_count=7&theme=codeSTACKr&exclude_repo=nathanpw12/pyhon&langs_count=10&hide_border=true&border_radius=10&cache_seconds=7200"/>
+</div> 
 
-</div>
 
-<br>
-<br>
 
-<div>
-<img src="Octocat.png" align="center" height="100em" width="110em"/>
-</div>
