@@ -1,4 +1,4 @@
-<h1><strong>Hi there 👋</strong></h1> 
+<h1><strong>Hey there 👋</strong></h1> 
 
 ```jsx
 import React from 'react';
@@ -42,8 +42,9 @@ export default Me;
 
 
 - 👤 I'm 21 years old 
-- 🇧🇷 From Brazil 
-- 🚀 Web Development Student at <a href='https://www.betrybe.com/'>Trybe <img src='trybe-logo2.webp' height="20" width="20" /> </a>
+- 🌍 From Brazil 
+
+- 🚀 Web Development Student at <a href='https://www.betrybe.com/'>Trybe <img src='trybe-logo2.webp' height="15" width="15" /> </a>
 - 📫 How to reach me: <a href="mailto:nathanvitor38@gmail.com" target="blank"><img align="center" src="gmail-icon.svg" alt="nathanpw12" height="28" width="40" /></a>
 <a href="https://linkedin.com/in/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanpw12" height="25" width="40" /></a>
 <a href="https://instagram.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathanpw12" height="25" width="40" /></a>
@@ -54,7 +55,7 @@ export default Me;
 <br>
 <br>
 
-<h1><strong>Knowledges 🧑‍🎓</strong></h1>
+<h1><strong>Knowledges 🎓</strong></h1>
 
 <div align='center'>  
 <img width="22" height="19" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <span><strong>HTML</strong></span> </span> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <span><strong>CSS</strong></span> <img width="22" height="19px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"> <span><strong>JavaScript</strong> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">       
@@ -68,9 +69,10 @@ export default Me;
 <br>
 <br>
 
-<div>
-<h1><strong>Projects ⌨️ 🖱️ </strong></h1>
 
+<h1><strong>Projects 🗃️</strong></h1>
+
+<div align='rigth'>
 <ol>
   <li><strong><a href='https://github.com/nathanpw12/lessons-learned' target="_blank">Leassons Learned</a></strong></li>
   <li><strong><a href='https://github.com/nathanpw12/playground-functions' target="_blank">Playground Functions</a></strong></li>
