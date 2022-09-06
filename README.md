@@ -53,12 +53,11 @@ export default Me;
 <br>
 <br>
 <br>
-<br>
 
 <h1><strong>Knowledges 🎓</strong></h1>
 
 <div align='center'>  
-<img width="22" height="19" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <span><strong>HTML</strong></span> </span> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"> <span><strong>CSS</strong></span> <img width="22" height="19px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"> <span><strong>JavaScript</strong> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">       
+<img width="22" height="19" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <span><strong> HTML </strong></span> </span> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"><span><strong> CSS </strong></span> <img width="22" height="19px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"> <span><strong>JavaScript</strong> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">       
 <span><strong>React</strong></span> <img width="30" height="19" src="https://cdn.worldvectorlogo.com/logos/redux.svg">           
 <span><strong>Redux</strong></span> <img height="19px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">              
 <span><strong>ESLint</strong></span>  <img width="30" height="19" src="https://testing-library.com/img/octopus-128x128.png">
@@ -66,7 +65,6 @@ export default Me;
 <span><strong>Linux</strong></span> <img width="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="19"/> <span><strong>Bash</strong></span><img width="30" height="19px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> <span><strong>Node</strong></span> 
 </div>
 
-<br>
 <br>
 
 
@@ -90,14 +88,13 @@ export default Me;
 </div>
 
 <br>
-<br>
 
 <div>
-<h1><strong>GitHub Statistics</strong></h1> 
+<h1><strong>GitHub Statistics 📊</strong></h1> 
 </div>
 
 <div align="venter">
-  <img height="180em"" align="left" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&title_color=fff&bg_color=DEG,8A2387,E94057,F27121"/>
+  <img height="180em"" align="left" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&custom_title=Latest+Activities&title_color=fff&bg_color=DEG,8A2387,E94057,F27121"/>
  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpw12&layout=compact&langs_count=7&theme=codeSTACKr&exclude_repo=nathanpw12/pyhon&langs_count=10&hide_border=true&border_radius=10&title_color=fff&bg_color=DEG,8A2387,E94057,F27121"/>
 </div> 
 
