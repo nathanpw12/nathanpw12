@@ -2,7 +2,7 @@
 
 ```jsx
 import React from 'react';
-import { docker, javaScript, nodeJs, others, react, SQL, typeScript } from '../skills/languagesAndTools';
+import { docker, javaScript, nodeJs,others, react, SQL, typeScript } from '../skills/languagesAndTools';
 
 const Me = () => {
   const name = 'Nathan Vitor';
@@ -10,13 +10,13 @@ const Me = () => {
 
   return (
     <main>
-      <h1>{name}</h1>
-      <h2>Learnig:</h2>
+      <h1>{`👤${name}`}</h1>
+      <h2>🎓 Learnig:</h2>
       {
         skills.map((skill, index) => (
           <div key={ index }>
             <ul>
-              <li>{skill}</li>
+              <li>{` ⦁ ${skill}`}</li>
             </ul>
           </div>
         ))
