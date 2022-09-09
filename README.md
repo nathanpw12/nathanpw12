@@ -2,16 +2,15 @@
 
 ```jsx
 import React from 'react';
-import { docker, javaScript, nodeJs,others, react, SQL, typeScript } from '../skills/languagesAndTools';
 
 const Me = () => {
   const name = 'Nathan Vitor';
-  const skills = [javaScript, react, docker, SQL, nodeJs, typeScript, others];
+  const skills = ['JavaScript', 'React', 'Docker', 'SQL', 'NodeJs', 'TypeScript'];
 
   return (
     <main>
       <h1>{`👤${name}`}</h1>
-      <h2>🎓 Learnig:</h2>
+      <h2>🎓Learnig:</h2>
       {
         skills.map((skill, index) => (
           <div key={ index }>
