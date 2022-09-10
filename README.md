@@ -79,7 +79,12 @@ export default Me;
   <li><strong><a href='https://github.com/nathanpw12/zoo-functions' target="_blank">Zoo Functions</a></strong></li>
   <li><strong><a href='https://github.com/nathanpw12/shopping-cart' target="_blank">Shopping Cart</a></strong></li>
   <li><strong><a href='https://github.com/nathanpw12/solar-system' target="_blank">Solar System</a></strong></li>
-  <li><strong><a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ' target="_blank">I will be deploying others soon</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/tryunfo' target="_blank">Tryunfo</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/trybetunes' target="_blank">Trybetunes</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/frontend-online-store' target="_blank">Front-End Online Store</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/react-testing-library' target="_blank">React Testing Library</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/trivia-react-redux' target="_blank">Trivia Game</a></strong></li>
+  <li><strong>I will be deploying others soon<a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ' target="_blank">(don't click here)</a></strong></li>
 </ol>
 </div>
 
