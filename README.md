@@ -1,3 +1,6 @@
+<!-- Se você quiser copiar qualquer template aqui , você pode , mas agradeceria se me desse uma estrela e um fork nesse repositorio 😊💜 -->
+<!-- If you want to copy any template here you can, but I would appreciate it if you give me a star and fork this repository 😊💜 -->
+
 <h1><strong>Hey there 👋</strong></h1> 
 
 ```jsx
@@ -91,6 +94,7 @@ export default Me;
  <li><strong><a href='https://github.com/nathanpw12/starwars-planets-search' target="_blank">Starwars Planets Search</a></strong></li>
  <li><strong><a href='https://github.com/nathanpw12/recipes-app' target="_blank">Recipes App</a></strong></li>
  <li><strong><a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ' target="_blank">Don't click here</a></strong></li>
+ <!-- If you clicked, give me a star 😊💜 -->
  <ol/>
 </div>
 <br>
