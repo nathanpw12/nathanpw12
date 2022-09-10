@@ -35,8 +35,6 @@ export default Me;
 
 <img src="sun2.gif" align="right" width="31%" height="100%">
 
-
-
 <div align="left">
 
 
@@ -60,12 +58,11 @@ export default Me;
 <span><strong>React</strong></span> <img width="30" height="19" src="https://cdn.worldvectorlogo.com/logos/redux.svg">           
 <span><strong>Redux</strong></span> <img height="19px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">              
 <span><strong>ESLint</strong></span>  <img width="30" height="19" src="https://testing-library.com/img/octopus-128x128.png">
-<span><strong>RTL</strong></span> <img width="30" height="19px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"> <span><strong>Jest</strong> </span> <img width="30" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"> <span><strong>git</strong></span> <img width="30"height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> <span><strong>GitHub</strong></span> <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="19"/>       
-<span><strong>Linux</strong></span>   <img width="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="19"/> <span><strong>Bash</strong></span><img width="30" height="19px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> <span><strong>Node</strong></span> 
+<span><strong>RTL</strong></span> <img width="30" height="19px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"> <span><strong>Jest</strong> </span> <img width="30" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"> <span><strong>git</strong></span> <img width="30"height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> <span><strong>GitHub</strong></span> <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="19"/> <span><strong>Linux</strong></span>  <img width="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="19"/> <span><strong>Bash</strong></span>
+<!-- <img width="30" height="19px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> <span><strong>Node</strong></span>   -->
 </div>
 
 <br>
-
 
 <h1><strong>Projects 🗃️</strong></h1>
 
@@ -99,6 +96,3 @@ export default Me;
   <img height="180em"" align="left" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&custom_title=Latest+Activities&title_color=fff&bg_color=DEG,8A2387,E94057,F27121"/>
  <img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpw12&layout=compact&langs_count=7&theme=codeSTACKr&exclude_repo=nathanpw12/pyhon&langs_count=10&hide_border=true&border_radius=10&title_color=fff&bg_color=DEG,8A2387,E94057,F27121"/>
 </div> 
-
-
-
