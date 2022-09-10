@@ -78,11 +78,8 @@ export default Me;
   <li><strong><a href='https://github.com/nathanpw12/js-unit-tests' target="_blank">JS Unit Tests</a></strong></li>
   <li><strong><a href='https://github.com/nathanpw12/zoo-functions' target="_blank">Zoo Functions</a></strong></li>
   <li><strong><a href='https://github.com/nathanpw12/shopping-cart' target="_blank">Shopping Cart</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/solar-system' target="_blank">Solar System</a></strong></li>
   <li><strong><a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ' target="_blank">I will be deploying others soon</a></strong></li>
-<!--   <li><strong><a href='https://github.com/nathanpw12/shopping-cart' target="_blank">Shopping Cart</a></strong></li>
-  <li><strong><a href='https://github.com/nathanpw12/shopping-cart' target="_blank">Shopping Cart</a></strong></li>
-  <li><strong><a href='https://github.com/nathanpw12/shopping-cart' target="_blank">Shopping Cart</a></strong></li>
- -->
 </ol>
 </div>
 
