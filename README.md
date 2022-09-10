@@ -67,7 +67,7 @@ export default Me;
 <h1><strong>Projects 🗃️</strong></h1>
 
 <div align='rigth'>
-<p>The links in the list lead to the repository for their respective projects. At the top of the "README.md" of each repository there is another link that shows the application working.</p>
+<p>The links in the list lead to the repository to their respective projects. At the top of the "README.md" of each repository there is another link that shows the application working.</p>
 <ol>
   <li><strong><a href='https://github.com/nathanpw12/lessons-learned' target="_blank">Leassons Learned</a></strong></li>
   <li><strong><a href='https://github.com/nathanpw12/playground-functions' target="_blank">Playground Functions</a></strong></li>
