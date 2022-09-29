@@ -87,11 +87,11 @@ export default Me;
   <li><strong><a href='https://github.com/nathanpw12/frontend-online-store' target="_blank">Front-End Online Store</a></strong></li>
   <li><strong><a href='https://github.com/nathanpw12/react-testing-library' target="_blank">React Testing Library</a></strong></li>
   <li><strong><a href='https://github.com/nathanpw12/trivia-react-redux' target="_blank">Trivia Game</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/starwars-planets-search' target="_blank">Starwars Planets Search</a></strong></li>
 </ol>
   <p>I will deploy these others soon</p>
- <ol>
+ <ol> 
  <li><strong><a href='https://github.com/nathanpw12/trybewallet' target="_blank">Trybewallet</a></strong></li>
- <li><strong><a href='https://github.com/nathanpw12/starwars-planets-search' target="_blank">Starwars Planets Search</a></strong></li>
  <li><strong><a href='https://github.com/nathanpw12/recipes-app' target="_blank">Recipes App</a></strong></li>
  <li><strong><a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ' target="_blank">Don't click here</a></strong></li>
  <!-- If you clicked, give me a star 😊💜 -->
