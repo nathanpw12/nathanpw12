@@ -36,8 +36,8 @@ export default Me;
 
 <br>
 
-<img src="sun2.gif" align="right" width="31%" height="100%">
-
+<a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src="sun2.gif" align="right" title="Don't click here" width="31%" height="100%"></a>
+<!-- If you clicked, give me a star 😊💜 -->
 <div align="left">
 
 
@@ -86,16 +86,16 @@ export default Me;
   <li><strong><a href='https://github.com/nathanpw12/trybetunes' target="_blank">Trybetunes</a></strong></li>
   <li><strong><a href='https://github.com/nathanpw12/frontend-online-store' target="_blank">Front-End Online Store</a></strong></li>
   <li><strong><a href='https://github.com/nathanpw12/react-testing-library' target="_blank">React Testing Library</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/trybewallet' target="_blank">Trybewallet</a></strong></li>
   <li><strong><a href='https://github.com/nathanpw12/trivia-react-redux' target="_blank">Trivia Game</a></strong></li>
   <li><strong><a href='https://github.com/nathanpw12/starwars-planets-search' target="_blank">Starwars Planets Search</a></strong></li>
+  <li><strong><a href='https://github.com/nathanpw12/recipes-app' target="_blank">Recipes App</a></strong></li>
 </ol>
-  <p>I will deploy these others soon</p>
+ 
+<!--<p>I will deploy these others soon</p>
  <ol> 
- <li><strong><a href='https://github.com/nathanpw12/trybewallet' target="_blank">Trybewallet</a></strong></li>
- <li><strong><a href='https://github.com/nathanpw12/recipes-app' target="_blank">Recipes App</a></strong></li>
- <li><strong><a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ' target="_blank">Don't click here</a></strong></li>
- <!-- If you clicked, give me a star 😊💜 -->
  <ol/>
+-->
 </div>
 <br>
 
