@@ -70,7 +70,7 @@ export default Me;
 <h1><strong>Projects 🗃️</strong></h1>
 
 <div align='rigth'>
-<p>The links in the list lead to the repository for their respective projects. At the top of the "README.md" of each repository there is another link that shows the application working. Also the projects are organized from my first project at <a href='https://www.betrybe.com/'> Trybe <img src='trybe-logo2.webp' height="15" width="15" /></a> to the last one, so the first ones are simpler and the last ones are more complex
+<p>The links in the list lead to the repository for their respective projects. At the top of the "README.md" of each repository there is another link that shows the application working. Also the projects are organized from my first project at <a href='https://www.betrybe.com/'> Trybe <img src='trybe-logo2.webp' height="15" width="15" /></a> to the last one, so the first ones are simpler and the last ones are more complex.
 
 </p>
 <ol>
