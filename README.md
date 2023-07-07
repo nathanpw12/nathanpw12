@@ -41,7 +41,7 @@ export default Me;
 <div align="left">
 
 
-- 👤 I'm 21 years old 
+- 👤 I'm 22 years old 
 - 🌍 From Brazil 
 
 
