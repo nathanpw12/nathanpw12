@@ -46,7 +46,7 @@ export default Me;
 
 
 - 📫 How to reach me: <a href="mailto:nathan.vitor.contact@gmail.com" target="blank"><img align="center" src="gmail-icon.svg" alt="nathanpw12" height="28" width="40" /></a>
-<a href="[linkedin.com/in/nathanpw12](https://www.linkedin.com/in/nathanvitor/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanpw12" height="25" width="40" /></a>
+<a href="https://www.linkedin.com/in/nathanvitor?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4Mh2o%2FZNSIe2aaMXIQNn9w%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanpw12" height="25" width="40" /></a>
 <a href="https://instagram.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathanpw12" height="25" width="40" /></a>
 <a href="https://twitter.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathanpw12" height="25" width="40" /></a>
 
