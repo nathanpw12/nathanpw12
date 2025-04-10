@@ -36,7 +36,7 @@ export default Me;
 
 <br>
 
-<a  target="_blank" href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'><img src="sun2.gif" align="right" title="Don't click here" width="31%" height="100%"></a>
+<a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ' target="_blank" rel="noopener noreferrer"><img src="sun2.gif" align="right" title="Don't click here" width="31%" height="100%"></a>
 <!-- If you clicked, give me a star 😊💜 -->
 <div align="left">
 
@@ -59,7 +59,7 @@ export default Me;
 <div align='center'>  
 <img width="22" height="19" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <span><strong> HTML </strong></span> </span> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"><span><strong> CSS </strong></span> <img width="22" height="19px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"> <span><strong>JavaScript</strong> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">       
 <span><strong>React</strong></span> <img width="30" height="19" src="https://cdn.worldvectorlogo.com/logos/redux.svg">           
-<span><strong>Redux</strong></span> <img height="19px" src="[https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg](https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg)">              
+<span><strong>Redux</strong></span> <img height="19px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">              
 <span><strong>ESLint</strong></span>  <img width="30" height="19" src="https://testing-library.com/img/octopus-128x128.png">
 <span><strong>RTL</strong></span> <img width="30" height="19px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"> <span><strong>Jest</strong> </span> <img width="30" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"> <span><strong>git</strong></span> <img width="30"height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> <span><strong>GitHub</strong></span> <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="19"/> <span><strong>Linux</strong></span><br><img width="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="19"/> <span><strong>Bash</strong></span>
 <!-- <img width="30" height="19px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> <span><strong>Node</strong></span>   -->
