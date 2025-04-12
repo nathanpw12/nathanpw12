@@ -81,14 +81,10 @@ export default Me;
 </div>
 
 <div align="center" style="background: #f5f5f5; padding: 10px; border-radius: 10px;">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathanpw12/nathanpw12/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathanpw12/nathanpw12/output/github-contribution-grid-snake.svg">
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/nathanpw12/nathanpw12/output/github-contribution-grid-snake.svg"
-      style="max-width: 100%; border: 2px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"
-    >
-  </picture>
+  <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
