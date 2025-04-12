@@ -79,8 +79,7 @@ export default Me;
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%;">
   <img height="180em" style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&custom_title=Últimas+Atividades&title_color=fff&bg_color=DEG,8A2387,E94057,F27121"/>
-  <img height="180em" style="margin-left: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpw12&layout=compact&hide=jupyter%20notebook&langs_count=20&theme=codeSTACKr&hide_border=true&border_radius=10&title_color=fff&bg_color=DEG,8A2387,E94057,F27121"/>
-</div>
+  <img height="180em" style="margin-left: 20px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpw12&layout=compact&hide=jupyter%20notebook&langs_count=20&theme=codeSTACKr&hide_border=true&border_radius=10&title_color=fff&bg_color=DEG,8A2387,E94057,F27121&custom_title=Linguagens%20mais%20usadas"/>
 
 <div align="center" style="background: #f5f5f5; padding: 10px; border-radius: 10px;">
   <picture align="center">
