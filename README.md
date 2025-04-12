@@ -54,24 +54,24 @@ export default Me;
 
 ## Projetos 🗃️
 
-<p>Os links abaixo levam aos respectivos repositórios. Cada repositório contém um "README.md" com um link para a aplicação funcionando.</p>
+<p>Os links abaixo levam aos respectivos repositórios. No README há um link para visualização da aplicação funcionando.</p>
 
-1. [Lessons Learned](https://github.com/nathanpw12/lessons-learned)
-2. [Playground Functions](https://github.com/nathanpw12/playground-functions)
-3. [Pixel Art](https://github.com/nathanpw12/pixel-art)
-4. [Trybewarts](https://github.com/nathanpw12/trybewarts)
-5. [JS Unit Tests](https://github.com/nathanpw12/js-unit-tests)
-6. [Zoo Functions](https://github.com/nathanpw12/zoo-functions)
-7. [Shopping Cart](https://github.com/nathanpw12/shopping-cart)
-8. [Solar System](https://github.com/nathanpw12/solar-system)
-9. [Tryunfo](https://github.com/nathanpw12/tryunfo)
-10. [Trybetunes](https://github.com/nathanpw12/trybetunes)
-11. [Front-End Online Store](https://github.com/nathanpw12/frontend-online-store)
-12. [React Testing Library](https://github.com/nathanpw12/react-testing-library)
-13. [Trybewallet](https://github.com/nathanpw12/trybewallet)
-14. [Trivia Game](https://github.com/nathanpw12/trivia-react-redux)
-15. [Starwars Planets Search](https://github.com/nathanpw12/starwars-planets-search)
-16. [Recipes App](https://github.com/nathanpw12/recipes-app)
+16. [Recipes App](https://github.com/nathanpw12/recipes-app)  
+15. [Starwars Planets Search](https://github.com/nathanpw12/starwars-planets-search)  
+14. [Trivia Game](https://github.com/nathanpw12/trivia-react-redux)  
+13. [Trybewallet](https://github.com/nathanpw12/trybewallet)  
+12. [React Testing Library](https://github.com/nathanpw12/react-testing-library)  
+11. [Front-End Online Store](https://github.com/nathanpw12/frontend-online-store)  
+10. [Trybetunes](https://github.com/nathanpw12/trybetunes)  
+9. [Tryunfo](https://github.com/nathanpw12/tryunfo)  
+8. [Solar System](https://github.com/nathanpw12/solar-system)  
+7. [Shopping Cart](https://github.com/nathanpw12/shopping-cart)  
+6. [Zoo Functions](https://github.com/nathanpw12/zoo-functions)  
+5. [JS Unit Tests](https://github.com/nathanpw12/js-unit-tests)  
+4. [Trybewarts](https://github.com/nathanpw12/trybewarts)  
+3. [Pixel Art](https://github.com/nathanpw12/pixel-art)  
+2. [Playground Functions](https://github.com/nathanpw12/playground-functions)  
+1. [Lessons Learned](https://github.com/nathanpw12/lessons-learned)  
 
 ## GitHub Stats 📊
 
