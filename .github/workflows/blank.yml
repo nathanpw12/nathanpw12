@@ -1,0 +1,29 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar animação da cobra
+        uses: Platane/snk@v2
+        with:
+          github_user_name: nathanpw12
+          outputs: dist/snake.svg
+          color_snake: "#a366ff" # Cor da cobra
+          color_dots: "#111111,#00ff00" # Cor dos pontos (vazios e preenchidos)
+          custom_title: "Eater of Commits"
+          
+      - name: Enviar arquivo gerado
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
