@@ -73,7 +73,7 @@ export default Me;
 15. [Starwars Planets Search](https://github.com/nathanpw12/starwars-planets-search)
 16. [Recipes App](https://github.com/nathanpw12/recipes-app)
 
-## Estatísticas do GitHub 📊
+## GitHub Stats 📊
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; width: 100%;">
   <img height="180em" style="margin-right: 20px;" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&custom_title=Últimas+Atividades&title_color=fff&bg_color=DEG,8A2387,E94057,F27121"/>
