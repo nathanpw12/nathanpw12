@@ -1,28 +1,21 @@
-<!-- Se você quiser copiar qualquer template aqui , você pode , mas agradeceria se me desse uma estrela e um fork nesse repositorio 😊💜 -->
-<!-- If you want to copy any template here you can, but I would appreciate it if you give me a star and fork this repository 😊💜 -->
-
-<h1><strong>Hey there 👋</strong></h1> 
+# Olá 👋 
 
 ```jsx
 import React from 'react';
 
 const Me = () => {
   const name = 'Nathan Vitor';
-  const skills = ['JavaScript', 'React', 'Docker', 'SQL', 'NodeJs', 'TypeScript'];
+  let skills = ['JavaScript', 'React', 'Docker', 'SQL', 'NodeJs', 'TypeScript'];
 
   return (
     <main>
-      <h1>{`👤${name}`}</h1>
-      <h2>🎓Learnig:</h2>
-      {
-        skills.map((skill, index) => (
-          <div key={ index }>
-            <ul>
-              <li>{` ⦁ ${skill}`}</li>
-            </ul>
-          </div>
-        ))
-      }
+      <h1>{`👤 ${name}`}</h1>
+      <h2>🎓 Aprendendo:</h2>
+      <ul>
+        {skills.map((skill, index) => (
+          <li key={index}>{` ⦁ ${skill}`}</li>
+        ))}
+      </ul>
     </main>
   );
 };
@@ -30,31 +23,26 @@ const Me = () => {
 export default Me;
 ```
 
-<div>
+## Sobre Mim 📋
 
-<h1><strong>About me 🗿</strong></h1> 
+<a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ' target="_blank" rel="noopener noreferrer">
+  <img src="sun2.gif" align="right" title="Não clique aqui" width="31%" height="100%" style="padding: 10px;">
+</a>
 
-<br>
-
-<a href='https://www.youtube.com/watch?v=dQw4w9WgXcQ' target="_blank" rel="noopener noreferrer"><img src="sun2.gif" align="right" title="Don't click here" width="31%" height="100%"></a>
-<!-- If you clicked, give me a star 😊💜 -->
 <div align="left">
 
+- 👤 24 anos
+- 🌍 São José do Rio Preto - SP
+- 👨‍🎓 Análise Desenv. Sistemas - Unifran
+- 💼 Analista de Suporte  - Senac, Digisystem
 
-- 👤 I'm 24 years old 
-- 🌍 From Brazil 
 
-
-- 📫 How to reach me: <a href="mailto:nathan.vitor.contact@gmail.com" target="blank"><img align="center" src="gmail-icon.svg" alt="nathanpw12" height="28" width="40" /></a>
+- 📫 Social: <a href="mailto:nathan.vitor.contact@gmail.com" target="blank"><img align="center" src="gmail-icon.svg" alt="nathanpw12" height="28" width="40" /></a>
 <a href="https://www.linkedin.com/in/nathanvitor?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B4Mh2o%2FZNSIe2aaMXIQNn9w%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanpw12" height="25" width="40" /></a>
-<a href="https://instagram.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nathanpw12" height="25" width="40" /></a>
-<a href="https://twitter.com/nathanpw12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nathanpw12" height="25" width="40" /></a>
-
-<br>
-<br>
+  
 <br>
 
-<h1><strong>Knowledges 🎓</strong></h1>
+## Conhecimentos 🎓
 
 <div align='center'>  
 <img width="22" height="19" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"> <span><strong> HTML </strong></span> </span> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"><span><strong> CSS </strong></span> <img width="22" height="19px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg"> <span><strong>JavaScript</strong> <img width="22" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">       
@@ -62,49 +50,31 @@ export default Me;
 <span><strong>Redux</strong></span> <img height="19px" src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg">              
 <span><strong>ESLint</strong></span>  <img width="30" height="19" src="https://testing-library.com/img/octopus-128x128.png">
 <span><strong>RTL</strong></span> <img width="30" height="19px" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"> <span><strong>Jest</strong> </span> <img width="30" height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"> <span><strong>git</strong></span> <img width="30"height="19px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"> <span><strong>GitHub</strong></span> <img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="19"/> <span><strong>Linux</strong></span><br><img width="30" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="30" height="19"/> <span><strong>Bash</strong></span>
-<!-- <img width="30" height="19px" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> <span><strong>Node</strong></span>   -->
 </div>
 
-<br>
+## Projetos 🗃️
 
-<h1><strong>Projects 🗃️</strong></h1>
+<p>Os links abaixo levam aos respectivos repositórios. Cada repositório contém um "README.md" com um link para a aplicação funcionando.</p>
 
-<div align='rigth'>
-<p>The links in the list lead to the repository for their respective projects. At the top of the "README.md" of each repository there is another link that shows the application working. Also the projects are organized from my first project at <a href='https://www.betrybe.com/'> Trybe <img src='trybe-logo2.webp' height="15" width="15" /></a> to the last one, so the first ones are simpler and the last ones are more complex.
+1. [Lessons Learned](https://github.com/nathanpw12/lessons-learned)
+2. [Playground Functions](https://github.com/nathanpw12/playground-functions)
+3. [Pixel Art](https://github.com/nathanpw12/pixel-art)
+4. [Trybewarts](https://github.com/nathanpw12/trybewarts)
+5. [JS Unit Tests](https://github.com/nathanpw12/js-unit-tests)
+6. [Zoo Functions](https://github.com/nathanpw12/zoo-functions)
+7. [Shopping Cart](https://github.com/nathanpw12/shopping-cart)
+8. [Solar System](https://github.com/nathanpw12/solar-system)
+9. [Tryunfo](https://github.com/nathanpw12/tryunfo)
+10. [Trybetunes](https://github.com/nathanpw12/trybetunes)
+11. [Front-End Online Store](https://github.com/nathanpw12/frontend-online-store)
+12. [React Testing Library](https://github.com/nathanpw12/react-testing-library)
+13. [Trybewallet](https://github.com/nathanpw12/trybewallet)
+14. [Trivia Game](https://github.com/nathanpw12/trivia-react-redux)
+15. [Starwars Planets Search](https://github.com/nathanpw12/starwars-planets-search)
+16. [Recipes App](https://github.com/nathanpw12/recipes-app)
 
-</p>
-<ol>
-  <li><strong><a href='https://github.com/nathanpw12/lessons-learned' target="_blank">Leassons Learned</a></strong></li>
-  <li><strong><a href='https://github.com/nathanpw12/playground-functions' target="_blank">Playground Functions</a></strong></li>
-  <li><strong><a href='https://github.com/nathanpw12/pixel-art' target="_blank">Pixel Art</a></strong></li>
-  <li><strong><a href='https://github.com/nathanpw12/trybewarts' target="_blank">Trybewarts</a></strong></li>
-  <li><strong><a href='https://github.com/nathanpw12/js-unit-tests' target="_blank">JS Unit Tests</a></strong></li>
-  <li><strong><a href='https://github.com/nathanpw12/zoo-functions' target="_blank">Zoo Functions</a></strong></li>
-  <li><strong><a href='https://github.com/nathanpw12/shopping-cart' target="_blank">Shopping Cart</a></strong></li>
-  <li><strong><a href='https://github.com/nathanpw12/solar-system' target="_blank">Solar System</a></strong></li>
-  <li><strong><a href='https://github.com/nathanpw12/tryunfo' target="_blank">Tryunfo</a></strong></li>
-  <li><strong><a href='https://github.com/nathanpw12/trybetunes' target="_blank">Trybetunes</a></strong></li>
-  <li><strong><a href='https://github.com/nathanpw12/frontend-online-store' target="_blank">Front-End Online Store</a></strong></li>
-  <li><strong><a href='https://github.com/nathanpw12/react-testing-library' target="_blank">React Testing Library</a></strong></li>
-  <li><strong><a href='https://github.com/nathanpw12/trybewallet' target="_blank">Trybewallet</a></strong></li>
-  <li><strong><a href='https://github.com/nathanpw12/trivia-react-redux' target="_blank">Trivia Game</a></strong></li>
-  <li><strong><a href='https://github.com/nathanpw12/starwars-planets-search' target="_blank">Starwars Planets Search</a></strong></li>
-  <li><strong><a href='https://github.com/nathanpw12/recipes-app' target="_blank">Recipes App</a></strong></li>
-</ol>
- 
-<!--<p>I will deploy these others soon</p>
- <ol> 
- <ol/>
-- 🚀 Web Development Student at <a href='https://www.betrybe.com/'>Trybe <img src='trybe-logo2.webp' height="15" width="15" /> </a>
-<img height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpw12&layout=compact&langs_count=7&theme=codeSTACKr&exclude_repo=nathanpw12/pyhon&langs_count=10&hide_border=true&border_radius=10&title_color=fff&bg_color=DEG,8A2387,E94057,F27121"/>
--->
-</div>
-<br>
-
-<div>
-<h1><strong>GitHub Statistics 📊</strong></h1> 
-</div>
+## Estatísticas do GitHub 📊
 
 <div align="center">
-  <img height="180em"" align="left" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&custom_title=Latest+Activities&title_color=fff&bg_color=DEG,8A2387,E94057,F27121"/>
-</div> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&custom_title=Últimas+Atividades&title_color=fff&bg_color=DEG,8A2387,E94057,F27121"/>
+</div>
