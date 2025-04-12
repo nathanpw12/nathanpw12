@@ -78,3 +78,19 @@ export default Me;
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathanpw12&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&custom_title=Últimas+Atividades&title_color=fff&bg_color=DEG,8A2387,E94057,F27121"/>
 </div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nathanpw12)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nathanpw12&layout=compact&hide=jupyter%20notebook&langs_count=20)
+
+<div align="center" style="background: #f5f5f5; padding: 10px; border-radius: 10px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathanpw12/nathanpw12/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathanpw12/nathanpw12/output/github-contribution-grid-snake.svg">
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/nathanpw12/nathanpw12/output/github-contribution-grid-snake.svg"
+      style="max-width: 100%; border: 2px solid #ccc; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"
+    >
+  </picture>
+</div>
