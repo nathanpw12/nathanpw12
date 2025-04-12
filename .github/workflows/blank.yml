@@ -16,12 +16,9 @@ jobs:
       - name: Gerar animação da cobra
         uses: Platane/snk@v2
         with:
-          github_user_name: nathanpw12
+          github_user_name: nathanpw12 # Substitua pelo seu nome de usuário
           outputs: dist/snake.svg
-          color_snake: "#a366ff" # Cor da cobra
-          color_dots: "#111111,#00ff00" # Cor dos pontos (vazios e preenchidos)
-          custom_title: "Eater of Commits"
-          
+
       - name: Enviar arquivo gerado
         uses: peaceiris/actions-gh-pages@v3
         with:
