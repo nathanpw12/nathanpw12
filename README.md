@@ -31,7 +31,7 @@ export default Me;
 
 <div align="left">
 
-- 👤 24 anos
+- 👤 25 anos
 - 🌍 São José do Rio Preto - SP
 - 👨‍🎓 Análise Desenv. Sistemas - Unifran
 - 💼 Analista de Suporte  - Senac, Digisystem
